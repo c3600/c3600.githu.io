@@ -62,13 +62,13 @@ NBS南京新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 新沂2,http://ott.mobaibox.com/PLTV/3/224/3221227311/index.m3u8
 贾汪新闻,http://ott.mobaibox.com/PLTV/3/224/3221227385/index.m3u8
 4KUHD-4K,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-电影台b1,http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
+电影台b1,http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
 黑莓电影,http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
 潮妈辣婆,http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 中国功夫,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
 武博世界,http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 惊悚悬疑,http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-军事评论,http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
+军事评论,http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
 精品纪录,http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 爱情喜剧,http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
 邳州综合,http://ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8
@@ -80,7 +80,7 @@ NBS南京新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 纪实人文,http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
 安多卫视,http://ott.mobaibox.com/PLTV/3/224/3221227651/index.m3u8
 北京纪实科教,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-city都市剧场,http://ott.mobaibox.com/PLTV/3/224/3221227700/index.m3u8
+city都市剧场,http://ott.mobaibox.com/PLTV/3/224/3221227710/index.m3u8
 生活资讯,http://ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
 泰州1,http://ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
 泰州2,http://ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
