@@ -60,6 +60,7 @@ CETV2,http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
 南京十八,http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
 南京科教,http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
 NBS南京新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+NBS南京生活,http://ott.mobaibox.com/PLTV/3/224/3221227786/index.m3u8
 新沂2,http://ott.mobaibox.com/PLTV/3/224/3221227311/index.m3u8
 贾汪新闻,http://ott.mobaibox.com/PLTV/3/224/3221227385/index.m3u8
 4KUHD-4K,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
@@ -119,4 +120,5 @@ KAKU少儿,http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
 超级飞侠,http://ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8
 黑莓动画,http://ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8
 精品萌宠,http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+动漫秀场,http://ott.mobaibox.com/PLTV/3/224/3221227774/index.m3u8
 欢笑剧场4K,http://ott.mobaibox.com/PLTV/3/224/3221228429/index.m3u8
