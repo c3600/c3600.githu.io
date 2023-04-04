@@ -22,6 +22,7 @@ CETV1,http://ott.mobaibox.com/PLTV/3/224/3221227560/index.m3u8
 CETV2,http://ott.mobaibox.com/PLTV/3/224/3221227607/index.m3u8
 凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+香港台,http://ott.mobaibox.com/PLTV/3/224/3221228117/index.m3u8
 运动健身,http://ott.mobaibox.com/PLTV/3/224/3221228427/index.m3u8
 江苏卫视,http://ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8
 北京卫视,http://ott.mobaibox.com/PLTV/3/224/3221228115/index.m3u8
@@ -66,6 +67,7 @@ NBS南京新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 黑莓电影,http://ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
 潮妈辣婆,http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 中国功夫,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+古装剧场,http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
 武博世界,http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 惊悚悬疑,http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 军事评论,http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
@@ -77,6 +79,7 @@ NBS南京新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 经济生活,http://ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
 精品大剧,http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 纪实人文,http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
 安多卫视,http://ott.mobaibox.com/PLTV/3/224/3221227651/index.m3u8
 北京纪实科教,http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
@@ -85,8 +88,10 @@ city都市剧场,http://ott.mobaibox.com/PLTV/3/224/3221227710/index.m3u8
 泰州1,http://ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
 泰州2,http://ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
 泰州3,http://ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
+无锡新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
 铜山1,http://ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
 扬州1,http://ott.mobaibox.com/PLTV/3/224/3221228155/index.m3u8
+扬州2,http://ott.mobaibox.com/PLTV/3/224/3221228338/index.m3u8
 HZTD-1(杭州),http://ott.mobaibox.com/PLTV/3/224/3221228287/index.m3u8
 江都电视台,http://ott.mobaibox.com/PLTV/3/224/3221228323/index.m3u8
 大湾区电视台,http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
@@ -100,6 +105,7 @@ HZTD-1(杭州),http://ott.mobaibox.com/PLTV/3/224/3221228287/index.m3u8
 南通2,http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8
 南通3,http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
 泗洪综合,http://ott.mobaibox.com/PLTV/3/224/3221228521/index.m3u8
+CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221227601/index.m3u8
 少儿,#genre#
 CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221228489/index.m3u8
 KAKU少儿,http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
@@ -112,4 +118,5 @@ KAKU少儿,http://ott.mobaibox.com/PLTV/3/224/3221227566/index.m3u8
 熊出没,http://ott.mobaibox.com/PLTV/3/224/3221228536/index.m3u8
 超级飞侠,http://ott.mobaibox.com/PLTV/3/224/3221228539/index.m3u8
 黑莓动画,http://ott.mobaibox.com/PLTV/3/224/3221227523/index.m3u8
-精品萌宠4K,http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+精品萌宠,http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+欢笑剧场4K,http://ott.mobaibox.com/PLTV/3/224/3221228429/index.m3u8
