@@ -106,9 +106,9 @@ city都市剧场,http://ott.mobaibox.com/PLTV/3/224/3221227710/index.m3u8
 HZTD-1(杭州),http://ott.mobaibox.com/PLTV/3/224/3221228287/index.m3u8
 江都电视台,http://ott.mobaibox.com/PLTV/3/224/3221228323/index.m3u8
 大湾区电视台,http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
-盐场1,http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
-盐场2,http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-盐场3,http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
+盐城1,http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
+盐城2,http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
+盐城3,http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
 电影01,http://ott.mobaibox.com/PLTV/3/224/3221228441/index.m3u8
 电影02,http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 电影03,http://ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
