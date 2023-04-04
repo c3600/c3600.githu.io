@@ -106,6 +106,12 @@ HZTD-1(杭州),http://ott.mobaibox.com/PLTV/3/224/3221228287/index.m3u8
 南通2,http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8
 南通3,http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
 泗洪综合,http://ott.mobaibox.com/PLTV/3/224/3221228521/index.m3u8
+苏州新闻综合,http://ott.mobaibox.com/PLTV/3/224/3221227768/index.m3u8
+乐游,http://ott.mobaibox.com/PLTV/3/224/3221227771/index.m3u8
+常州生活,http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
+常州公共,http://ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
+常州都市,http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
+连云港公共,http://ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
 CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221227601/index.m3u8
 少儿,#genre#
 CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221228489/index.m3u8
