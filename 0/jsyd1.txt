@@ -12,7 +12,7 @@ CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8
 CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8
 CCTV11,http://ott.mobaibox.com/PLTV/3/224/3221227524/index.m3u8
 CCTV12,http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
-CCTV13,http://ott.mobaibox.com/PLTV/3/224/3221228117/index.m3u8
+CCTV13,http://ott.mobaibox.com/PLTV/3/224/3221228121/index.m3u8
 CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
 CCTV15,http://ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8
 CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
